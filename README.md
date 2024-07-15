@@ -1,0 +1,1 @@
+Terraform scripts to deploy and manage a portfolio website in an AWS S3 bucket. It demonstrates the use of Infrastructure as Code (IaC) for creating and configuring a static website. Features Automated S3 bucket creation for static website hosting Bucket policies and permissions setup Deployment of static website files
